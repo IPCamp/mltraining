@@ -1,12 +1,5 @@
 ##################################################
 ## Author: Marton Szabo
-## Copyright: Copyright {year}, {project_name}
-## Credits: [{credit_list}]
-## License: {license}
-## Version: {mayor}.{minor}.{rel}
-## Mmaintainer: {maintainer}
-## Email: {contact_email}
-## Status: {dev_status}
 ##################################################
 
 import numpy as np
